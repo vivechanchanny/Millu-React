@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Millu learn coding live applications and usecases
+          vivechan poc for CICD 
         </p>
       </header>
     </div>

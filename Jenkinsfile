@@ -12,7 +12,6 @@ pipeline {
             steps {
                 sh "sudo su"
                 sh "sudo rm -rf /usr/share/nginx/html/"
-                sh "sudo su"
                 sh "sudo cp -r ${WORKSPACE}/build /usr/share/nginx/html/"
             }
         }

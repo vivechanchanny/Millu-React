@@ -3,7 +3,6 @@ pipeline {
      stages {
         stage("Build") {
             steps {
-                sh "sudo su"
                 sh "sudo npm install"
                 sh "sudo npm run build"
             }

@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           vivechan poc for CICD try 201
-          hello 
+          hello kumar sir 
         </p>
       </header>
     </div>

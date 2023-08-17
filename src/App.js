@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>vivechan poc for CICD using github actions</p>
+        <p>vivechan poc for CICD using github actions try new</p>
       </header>
     </div>
   );

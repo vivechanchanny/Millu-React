@@ -1,15 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          vivechan poc for CICD try 201
-          hello kumar sir 
-        </p>
+        <p>vivechan poc for CICD using github actions</p>
       </header>
     </div>
   );
